@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me fathimanusrath460@gmail.com
+- 📫 How to reach me fathimanusrath0603@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
