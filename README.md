@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning front-end web development
 - 💞️ I’m looking to collaborate on front-end related projects
 - 📫 How to reach me fathimanusrath0603@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 fathimanusrath0603/fathimanusrath0603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
