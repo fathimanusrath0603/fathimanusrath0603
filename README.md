@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fathimanusrath0603
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data analytics projects
+- 👀 I’m interested in building user interface of website
+- 🌱 I’m currently learning front-end web development
+- 💞️ I’m looking to collaborate on front-end related projects
 - 📫 How to reach me fathimanusrath0603@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
